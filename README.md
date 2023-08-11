@@ -1,9 +1,9 @@
 
 # dio | resumos
 
-teste bla bla bla
+Teste de Readme___Iniciando isto
 
-vamos testa resta ferramente
+Vamos testar esta ferramenta
 
 [teste de link](https://ada.tech/sou-aluno)
 
